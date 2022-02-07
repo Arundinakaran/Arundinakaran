@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arundinakaran
 - 👀 I’m interested in Cloud Tech
-- 🌱 I’m currently learning Cloud Services and finished my Graduation
+- 🌱 I’m currently learning Cloud Services and pursing my Post Graduation 
 - 💞️ I’m looking to collaborate on anything related to cloud techs 
 
 <!---
